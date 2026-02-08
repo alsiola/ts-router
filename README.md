@@ -1,5 +1,8 @@
 # ts-router
 
+[![AI-Agent Readiness](https://ready.kerex.app/api/badge/alsiola/ts-router)](https://ready.kerex.app/analysis/alsiola/ts-router)
+
+
 This aims to be a type-safe routing layer built over express, making as much use as possible of type inference to prevent double-declaration of e.g. yup validators and interfaces.
 
 ## Setup
