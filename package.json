@@ -25,5 +25,11 @@
     "@types/lodash": "^4.14.161",
     "@types/yup": "^0.29.7",
     "typescript": "^4.0.3"
+  },
+  "doxla": {
+    "components": {
+      "dir": "docs/components"
+    },
+    "dependencies": {}
   }
 }
